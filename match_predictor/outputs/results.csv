@@ -1,0 +1,6 @@
+model,accuracy,log_loss,RPS
+Baseline (class priors),0.4369,1.0737,0.2304
+LogReg (Elo only),0.5238,0.9916,0.202
+LogReg (all features),0.5266,0.9861,0.2003
+Random Forest,0.5235,0.9884,0.201
+XGBoost (tuned),0.5249,0.9883,0.2009
